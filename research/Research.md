@@ -6,3 +6,10 @@ A boater was thrown overboard when his vessel navigated a wake incorrectly and h
 An out-of-control, unmanned boat was reported erratic after crashing into a Marine Patrol craft. The patrol vessel capsized, knocking two officers into the water.
 CBS News. The drifting boat remained running and posed a serious ongoing hazard. Ultimately it was brought under control with the help of Good Samaritans who boarded and managed to stop it.
 CBS News
+
+Review and combine all sources (articles, patents, solutions, professional contacts) into one Problem Justification draft.
+ Write a 200–300 word justification paragraph that:
+Explains why this problem matters.
+Shows evidence from at least 3 credible sources.
+Names at least 1–2 professionals who could validate or give feedback.
+ Post this justification on your GitHub Pages site (under Research/Justification).

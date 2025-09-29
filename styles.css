@@ -134,7 +134,7 @@ h2, h3 {
 
 /* MEDIA */
 img, video {
-  max-width: 100%;
+  max-width: 30%;
   border-radius: var(--radius);
   margin-top: 12px;
   box-shadow: var(--shadow);
