@@ -1,15 +1,15 @@
+1. https://www.facebook.com/share/r/192582NzF4/
 
-1. Sarasota, Florida (April 2025)
+2. https://www.facebook.com/share/r/1KJm5P4WG9/
+
+3. Sarasota, Florida (April 2025)
 A boater was thrown overboard when his vessel navigated a wake incorrectly and he wasn’t wearing a life jacket or using the emergency engine cutoff. His boat went completely unmanned and sped off at nearly 40 mph, circling the area north of the Ringling Museum. FOX 13 Tampa Bay. FOX Weather. Multiple recovery attempts — including towline methods — failed until Lieutenant King of the Sarasota Police Marine Unit heroically jumped aboard the fast-moving boat and brought it to a stop. ABC7 Los Angeles  FOX Weather
 
-2. Lake Winnipesaukee, New Hampshire (July 2023)
+4. Lake Winnipesaukee, New Hampshire (July 2023)
 An out-of-control, unmanned boat was reported erratic after crashing into a Marine Patrol craft. The patrol vessel capsized, knocking two officers into the water.
 CBS News. The drifting boat remained running and posed a serious ongoing hazard. Ultimately it was brought under control with the help of Good Samaritans who boarded and managed to stop it.
 CBS News
 
-Review and combine all sources (articles, patents, solutions, professional contacts) into one Problem Justification draft.
- Write a 200–300 word justification paragraph that:
-Explains why this problem matters.
-Shows evidence from at least 3 credible sources.
-Names at least 1–2 professionals who could validate or give feedback.
- Post this justification on your GitHub Pages site (under Research/Justification).
+Fatal boating accidents caused by captains falling overboard and failing to use safety lanyards remain a serious and preventable problem. In June 2025, two men were thrown from a boat in New Jersey’s Barnegat Bay after hitting a wake. The unmanned vessel circled back and fatally struck an elderly man in the water (CBS News, 2025). Just two months earlier in Indiana, a 71-year-old man was killed by a propeller after being ejected from his boat under similar circumstances (Fox8, 2025). These tragedies highlight a recurring pattern: when operators are ejected, boats without engine cutoff devices can become deadly projectiles. Law enforcement has noted that a simple tool—the engine cut-off switch lanyard—could prevent many of these incidents. In Sarasota Bay, for example, police confirmed that a runaway boat incident could have been avoided if the captain had been wearing the kill-switch lanyard (WFLA, 2025). Despite federal regulations requiring manufacturers to install engine cut-off switches on new boats, compliance among operators remains inconsistent, leaving a gap between safety technology and actual practice.
+
+The consequences are clear: lives are being lost due to a problem with a simple, proven solution. Addressing this gap requires not only enforcement and education but also innovations that make cutoff systems more intuitive and harder to ignore. Marine safety experts such as Capt. Chris Day (U.S. Coast Guard) and organizations like the National Safe Boating Council could provide valuable feedback on practical solutions and adoption strategies. Their professional input would help ensure that future safety designs or awareness campaigns directly address the behavioral and technical shortcomings currently leading to preventable deaths.
